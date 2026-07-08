@@ -130,6 +130,8 @@ A structured collection of interview-ready notes covering the MERN stack, TypeSc
 
 ---
 
+## Top Questions [`top_qa.md`](.top_qa.md)
+
 ## Suggested Reading Order
 
 1. **Fundamentals:** [`JavaScript_ES6_Notes.md`](./JavaScript_ES6_Notes.md) → [`typescript-notes.md`](./typescript-notes.md) → [`NodeJS_Notes.md`](./NodeJS_Notes.md)
