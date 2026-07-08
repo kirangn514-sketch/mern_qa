@@ -130,7 +130,7 @@ A structured collection of interview-ready notes covering the MERN stack, TypeSc
 
 ---
 
-## Top Questions [`top_qa.md`](.top_qa.md)
+## Top Questions [`top_qa.md`](./top_qa.md)
 
 ## Suggested Reading Order
 
